@@ -1,0 +1,6 @@
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\bin\Debug\Lab15_File_IO_Countries.exe.config
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\bin\Debug\Lab15_File_IO_Countries.exe
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\bin\Debug\Lab15_File_IO_Countries.pdb
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\obj\Debug\Lab15_File_IO_Countries.csprojResolveAssemblyReference.cache
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\obj\Debug\Lab15_File_IO_Countries.exe
+c:\users\ryanja01\documents\visual studio 2017\Projects\Lab15_File_IO_Countries\Lab15_File_IO_Countries\obj\Debug\Lab15_File_IO_Countries.pdb
